@@ -1,2 +1,2 @@
-# Cascading STS Translator
-Basic framework for Cascading STST application. Preliminary streamlit build.
+# Speech to Speech Urdu
+Basic framework for STST application. Preliminary streamlit build.
